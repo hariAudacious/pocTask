@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "firstName": "Hariom",
+      "lastName": "Sharma",
+      "email": "001204@gmail.com",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "firstName": "Aarti",
+      "lastName": "yadav",
+      "email": "aarti@gmail.com",
+      "password": "aarti@123",
+      "id": 2
+    },
+    {
+      "firstName": "Roshni",
+      "lastName": "Chanderiya",
+      "email": "roshni@gmail.com",
+      "password": "55555555",
+      "id": 3
+    },
+    {
+      "firstName": "Sonu",
+      "lastName": "bamaniya",
+      "email": "s@gmail.com",
+      "password": "346461466",
+      "id": 4
+    },
+    {
+      "firstName": "dguhdgrfhn",
+      "lastName": "hgjfuhytjm",
+      "email": "hfgjtfg@gmail.com",
+      "password": "drfyhtgty",
+      "id": 5
+    },
+    {
+      "firstName": "fhtgdn",
+      "lastName": "vgbnhhgdn",
+      "email": "vghbjn@gmail.com",
+      "password": "fghnjgjnghjkm",
+      "id": 6
+    },
+    {
+      "firstName": "fghfgh",
+      "lastName": "ghx",
+      "email": "fg@gmail.com",
+      "password": "dfhgrgtbt",
+      "id": 7
+    },
+    {
+      "firstName": "dfhgfh",
+      "lastName": "fghjdyhtj",
+      "email": "hgghj@gmail.com",
+      "password": "dfhfgffdd",
+      "id": 8
+    },
+    {
+      "firstName": "dfhydtghb",
+      "lastName": "tyfhthu",
+      "email": "tuyhdth@gmail.com",
+      "password": "ghdytgjnttg",
+      "id": 9
+    },
+    {
+      "firstName": "srgtyrhtg",
+      "lastName": "gfjyht",
+      "email": "fgjhytg@gmail.com",
+      "password": "gfhgtfgdff",
+      "id": 10
+    },
+    {
+      "firstName": "Hariom",
+      "lastName": "gdthythhg",
+      "email": "fghty@gmail.com",
+      "password": "ghgfjhndgj",
+      "id": 11
+    },
+    {
+      "firstName": "gfjhgytyjty",
+      "lastName": "hgjfyh",
+      "email": "ghj@gmail.com",
+      "password": "ghdgbnhgjgy",
+      "id": 12
+    }
+  ]
+}
